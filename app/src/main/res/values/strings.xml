@@ -1,0 +1,8 @@
+ <resources>
+    <string name="app_name">demo1</string>
+     <string name="icon">circle</string>
+     <string name="icon2">loop</string>
+     <string name="icon3">circle2</string>
+     <string name="icon4">ring</string>
+     <string name="Let_s_Get_Started">Let_s_Get_Started</string>
+</resources>
